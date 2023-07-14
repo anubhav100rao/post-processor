@@ -14,3 +14,10 @@ bash
 ```
 <scheme>://<host>
 ```
+
+## have used node core modules
+
+- OS
+- FS
+- HTTP
+- URL
