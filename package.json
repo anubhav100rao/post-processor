@@ -1,0 +1,25 @@
+{
+  "name": "post-processor",
+  "version": "1.0.0",
+  "description": "network login scheme\r bash",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anubhav100rao/post-processor.git"
+  },
+  "author": "anubhav100rao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anubhav100rao/post-processor/issues"
+  },
+  "homepage": "https://github.com/anubhav100rao/post-processor#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
