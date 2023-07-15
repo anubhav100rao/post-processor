@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/anubhav100rao/post-processor#readme",
   "dependencies": {
+    "crypto-js": "^4.1.1",
     "express": "^4.18.2"
   }
 }

@@ -1,0 +1,4 @@
+id, nickname, password, consent to mailing
+1, user1, password1, yes
+2, user2, password2, no
+3, user3, password3, yes

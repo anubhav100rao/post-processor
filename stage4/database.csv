@@ -1,0 +1,4 @@
+id, nickname, password, consent to mailing
+1,  user1, 785aaa2882d5b42ba06209a1fcbf61af194f9d5f7f2a43c7ca87e8bc985a85cd,  yes
+2,  user2, 1886d8805f5a6b2e164c7a4af0ce28deda35efc5c69d9974fab4c7d07efcc685,  no
+3,  user3, bd1daf991666501c53ebd5e6ce24db6549f4c84ff680299eae1dfecaa49a7957,  yes
